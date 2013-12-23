@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Util", "Util.vcxproj", "{76051FDB-9EA2-42F8-BCAA-DBE1AEB7206C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boost_Timeout", "Boost_Timeout\Boost_Timeout.vcxproj", "{0409E1AC-DDFD-4A49-87CF-5DE1CE65C967}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test_timer", "Test_timer\Test_timer.vcxproj", "{B076150F-5351-48AE-A9AC-883BA5F5BF44}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestRelease", "..\TestRelease\TestRelease.vcxproj", "{DB407385-C90F-453A-80B7-372E305239C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76051FDB-9EA2-42F8-BCAA-DBE1AEB7206C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76051FDB-9EA2-42F8-BCAA-DBE1AEB7206C}.Debug|Win32.Build.0 = Debug|Win32
+		{76051FDB-9EA2-42F8-BCAA-DBE1AEB7206C}.Release|Win32.ActiveCfg = Release|Win32
+		{76051FDB-9EA2-42F8-BCAA-DBE1AEB7206C}.Release|Win32.Build.0 = Release|Win32
+		{0409E1AC-DDFD-4A49-87CF-5DE1CE65C967}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0409E1AC-DDFD-4A49-87CF-5DE1CE65C967}.Debug|Win32.Build.0 = Debug|Win32
+		{0409E1AC-DDFD-4A49-87CF-5DE1CE65C967}.Release|Win32.ActiveCfg = Release|Win32
+		{0409E1AC-DDFD-4A49-87CF-5DE1CE65C967}.Release|Win32.Build.0 = Release|Win32
+		{B076150F-5351-48AE-A9AC-883BA5F5BF44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B076150F-5351-48AE-A9AC-883BA5F5BF44}.Debug|Win32.Build.0 = Debug|Win32
+		{B076150F-5351-48AE-A9AC-883BA5F5BF44}.Release|Win32.ActiveCfg = Release|Win32
+		{B076150F-5351-48AE-A9AC-883BA5F5BF44}.Release|Win32.Build.0 = Release|Win32
+		{DB407385-C90F-453A-80B7-372E305239C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB407385-C90F-453A-80B7-372E305239C5}.Debug|Win32.Build.0 = Debug|Win32
+		{DB407385-C90F-453A-80B7-372E305239C5}.Release|Win32.ActiveCfg = Release|Win32
+		{DB407385-C90F-453A-80B7-372E305239C5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
